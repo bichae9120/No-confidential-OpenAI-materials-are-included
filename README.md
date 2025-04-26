@@ -8,7 +8,7 @@ and how the account restriction was **procedurally improper** due to lack of not
 
 ## Contents
 
-- `openai_violation_report_final.pdf`: Main report document authored by **Iro**, reviewed for policy compliance.
+- Main report document authored by **Iro**, reviewed for policy compliance.
 - Supporting statement:  
   *"I can always restructure GPT even if you block my account."*  
   This demonstrates that technical knowledge and experimental behavior were not malicious, but creative.
